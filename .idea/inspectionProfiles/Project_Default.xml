@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="store.store.urls.products" />
+          <option value="store.store.urls.index" />
+          <option value="payment.views.payment_completed.delay" />
+          <option value="Course_FirstProject.blog.views.HomePageView.as_view" />
+          <option value="blog.views.get_objects_or_404" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
